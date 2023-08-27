@@ -1,5 +1,4 @@
-**ZAZA </br>
-IN ORDER FOR THE PLUGIN TO WORK YOU NEED TO INSTALL ZAZApack.zip AS A RESOURCE PACK TO YOUR SERVER. </br>
+**IN ORDER FOR THE PLUGIN TO WORK YOU NEED TO INSTALL ZAZApack.zip AS A RESOURCE PACK TO YOUR SERVER. </br>
 CustomResourcePack: </br>
   -Item: minecraft:stick </br>
   -CustomModelData: 420 </br>
