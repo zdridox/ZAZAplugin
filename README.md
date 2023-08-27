@@ -3,7 +3,7 @@ CustomResourcePack(joint model is not that good im a programmer not a 3d artist 
   -Item: minecraft:stick (cant be used like a normal stick) </br>
   -CustomModelData: 420 </br>
 Commands: </br>
-  -/joint | "zaza.joint" permission </br>
+  -/joint | "zaza.joint" permission needed</br>
   -/helpzaza - help on how to craft joint and get it via /joint command </br>
   -/creditszaza - credits </br>
 Crafting: </br>
