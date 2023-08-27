@@ -1,5 +1,5 @@
 **IN ORDER FOR THE PLUGIN TO WORK YOU NEED TO INSTALL ZAZApack.zip AS A RESOURCE PACK TO YOUR SERVER. </br>
-CustomResourcePack: </br>
+CustomResourcePack(joint model is not that good im a programmer not a 3d artist so if you want to use your own model heres everything you need): </br>
   -Item: minecraft:stick </br>
   -CustomModelData: 420 </br>
 Commands: </br>
