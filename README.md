@@ -9,5 +9,6 @@ Commands: </br>
 Crafting: </br>
   2x Fern </br>
   1x paper </br>
-  UnShapedRecipe: 1x fern, 1x fern, 1x paper | the order does not matter.** </br>
+  UnShapedRecipe: 1x fern, 1x fern, 1x paper | the order does not matter. </br>
+  Discord: @zdridox** </br>
 ![javaw_RwXvlZPg7Z](https://github.com/zdridox/ZAZAplugin/assets/63424365/c6089477-fd66-4b4e-80eb-2e81e8d3602f)
